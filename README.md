@@ -1,16 +1,38 @@
-## Hi there 👋
+# 🏄🏽 Hey, I'm Nate!
 
-<!--
-**Neitodesu/Neitodesu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`✨ Aspiring Full Stack Dev`**
 
-Here are some ideas to get you started:
+```js
+export Dev {
+  name: 'Nate',
+  age:  33,
+  location: 'Detroit, Mi',
+}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I'm currently learning the front end through [The Odin Project](https://theodinproject.com)! <img src='https://www.theodinproject.com/assets/icons/odin-icon-22b41941.svg' width="24" class="odin-icon">
+
+I love being able to take ideas in my head and turn them into real life through programming.
+
+Join me as I transition from HVAC Tech to Full Stack Dev!
+
+Feel free to reach out!
+<br>
+📨 **nbolduc92@gmail.com**
+
+## Tech I'm learning
+
+## [![My Skills](https://skillicons.dev/icons?i=html,css,js,c,python,linux,arch,neovim,git,github&perline=5)](https://skillicons.dev)
+
+⚡ **Fun Facts:**
+
+- I play guitar 🎸
+- I have 2 projects cars 🚗
+- Proud girl dad 💪🏽
+
+<style>
+  .odin-icon {
+    width: 30px;
+    transform: translateY(14px)
+  }
+</style>
