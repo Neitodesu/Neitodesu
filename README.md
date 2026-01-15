@@ -10,7 +10,7 @@ export Dev {
 }
 ```
 
-🌱 I'm currently learning the front end through [The Odin Project](https://theodinproject.com)! <img src='https://www.theodinproject.com/assets/icons/odin-icon-22b41941.svg' width="24" class="odin-icon">
+🌱 I'm currently learning fullstack javascript with [The Odin Project](https://theodinproject.com)! <img src='https://www.theodinproject.com/assets/icons/odin-icon-22b41941.svg' width="24" class="odin-icon">
 
 I love being able to take ideas in my head and turn them into real life through programming.
 
