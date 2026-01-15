@@ -19,5 +19,5 @@ Feel free to reach out!
 ⚡ **Fun Facts:**
 
 - I play guitar 🎸
-- I have 2 projects cars 🚗
+- I have 2 project cars 🚗
 - Proud girl dad 💪🏽
