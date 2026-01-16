@@ -6,7 +6,7 @@
 
 I love being able to take ideas in my head and turn them into real life through programming.
 
-Follow me as I transition from HVAC Tech to Full Stack Dev!
+Follow me as I transition from HVAC to Full Stack!
 
 Feel free to reach out!
 <br>
