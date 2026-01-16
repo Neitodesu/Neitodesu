@@ -14,7 +14,7 @@ Feel free to reach out!
 
 ## Tech I'm learning
 
-## [![My Skills](https://skillicons.dev/icons?i=html,css,js,c,python,linux,arch,neovim,git,github&perline=5)](https://skillicons.dev)
+## [![My Skills](https://skillicons.dev/icons?i=html,css,js,linux,arch,neovim,git,github&perline=4)](https://skillicons.dev)
 
 ⚡ **Fun Facts:**
 
