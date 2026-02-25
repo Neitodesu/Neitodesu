@@ -12,9 +12,9 @@ Feel free to reach out!
 <br>
 📨 **nbolduc92@gmail.com**
 
-/*## Tech and tools!*/
+<!--## Tech and tools!-->
 
-## [![My Skills](https://skillicons.dev/icons?i=html,css,js,linux,arch,neovim,git,github&perline=4)](https://skillicons.dev)
+<!--## [![My Skills](https://skillicons.dev/icons?i=html,css,js,linux,arch,neovim,git,github&perline=4)](https://skillicons.dev)-->
 
 ⚡ **Fun Facts:**
 
